@@ -1,0 +1,3 @@
+# Task 3 – Citations and Hallucination Control
+
+First build Task 1 index: from `task1`, run `python index.py`. Install this folder's requirements, then from the project root run `uvicorn task3.api:app --reload`. POST `/ask` JSON `{"question":"How many casual leaves per year?"}` and header `x-api-key: change-this-key` (change `RAG_API_KEY` in a local `.env`). Citation extraction/validation is in `citations.py`; manual claim support helper is in `faithfulness.py`. `evaluate_prompts.py` provides the 10-question prompt comparison harness; record and compare hallucination labels from actual model outputs.

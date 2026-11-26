@@ -1,0 +1,15 @@
+{"question": "How many casual leaves per year?", "answer": "12 casual leaves per calendar year.", "source": "leave_policy.txt", "page": 1, "type": "simple"}
+{"question": "How many sick leaves per year?", "answer": "10 sick leaves per calendar year.", "source": "leave_policy.txt", "page": 1, "type": "simple"}
+{"question": "What are the standard working hours?", "answer": "9:00 AM to 6:00 PM.", "source": "work_policy.txt", "page": 1, "type": "simple"}
+{"question": "How many public holidays are observed?", "answer": "10 public holidays each calendar year.", "source": "holiday_policy.txt", "page": 1, "type": "simple"}
+{"question": "What is the meal reimbursement limit?", "answer": "800 rupees per day during approved business travel.", "source": "expense_policy.txt", "page": 1, "type": "simple"}
+{"question": "What is the probation period?", "answer": "Six months.", "source": "probation_policy.txt", "page": 1, "type": "simple"}
+{"question": "How many weeks of maternity leave are available?", "answer": "26 weeks of paid maternity leave for eligible employees.", "source": "parental_leave_policy.txt", "page": 1, "type": "simple"}
+{"question": "What password length is required?", "answer": "At least 12 characters.", "source": "it_security_policy.txt", "page": 1, "type": "simple"}
+{"question": "What are the leave entitlements and how should leave be requested?", "answer": "12 casual leaves and 10 sick leaves per calendar year; leave requests should be submitted to the manager before the leave date.", "source": "leave_policy.txt", "page": 1, "type": "multi_chunk"}
+{"question": "What are the work hours and weekly schedule?", "answer": "9:00 AM to 6:00 PM, five days per week Monday through Friday, with a one-hour lunch break.", "source": "work_policy.txt", "page": 1, "type": "multi_chunk"}
+{"question": "What rules apply to business travel and meal claims?", "answer": "Manager approval is required before booking; meal expenses are reimbursed up to 800 rupees per day and original receipts must be submitted within 15 days.", "source": "expense_policy.txt", "page": 1, "type": "multi_chunk"}
+{"question": "What are the remote work eligibility and equipment rules?", "answer": "Up to two work-from-home days per week may be requested with manager approval; new employees must complete 30 days first and use company laptops.", "source": "remote_work_policy.txt", "page": 1, "type": "multi_chunk"}
+{"question": "Who won the 2022 football world cup?", "answer": "I don't have information on that.", "source": null, "page": null, "type": "unanswerable"}
+{"question": "What is the company's CEO name?", "answer": "I don't have information on that.", "source": null, "page": null, "type": "unanswerable"}
+{"question": "What is the company's stock ticker?", "answer": "I don't have information on that.", "source": null, "page": null, "type": "unanswerable"}
